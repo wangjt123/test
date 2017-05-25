@@ -6,10 +6,6 @@ import net.sf.json.JSONArray;
 import net.sf.json.JSONObject;
 import net.sf.json.xml.XMLSerializer;
 
-
-
-
-
 /**
  * @Author juntao.Wang 
  * @Date 2016年10月12日 下午5:03:51
